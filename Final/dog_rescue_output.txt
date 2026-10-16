@@ -1,0 +1,8 @@
+Rescue Dogs
+-------------------------------------------------------
+Dog          Breed                        Age   Weight
+-------------------------------------------------------
+Naya         Husky                         10       65
+Nika         Doberman                       3       54
+Zeus         German Shepherd                6       89
+Bazar        Chihuahua                     12       17
